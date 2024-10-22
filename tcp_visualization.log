@@ -1,0 +1,12 @@
+2024-09-30 09:17:33,591 - ERROR - 套接字错误 19: Trying to connect while connection is in progress
+2024-09-30 09:17:36,138 - ERROR - 套接字错误 19: Trying to connect while connection is in progress
+2024-09-30 09:17:39,577 - ERROR - 套接字错误 19: Trying to connect while connection is in progress
+2024-09-30 09:17:43,244 - ERROR - 套接字错误 1: Trying to connect while connection is in progress
+2024-09-30 09:17:47,442 - ERROR - 连接超时: 无法在指定时间内建立连接
+2024-09-30 09:17:55,914 - ERROR - 套接字错误 1: Unknown error
+2024-09-30 09:18:00,988 - ERROR - 套接字错误 1: Unknown error
+2024-09-30 09:19:49,158 - ERROR - 套接字错误 19: Trying to connect while connection is in progress
+2024-09-30 09:19:51,127 - ERROR - 套接字错误 19: Trying to connect while connection is in progress
+2024-09-30 09:19:52,948 - ERROR - 套接字错误 1: Trying to connect while connection is in progress
+2024-09-30 09:20:13,098 - ERROR - 套接字错误 1: Unknown error
+2024-09-30 09:20:47,907 - ERROR - 套接字错误 1: Unknown error
